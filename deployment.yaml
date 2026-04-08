@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devops-container
-        image: nginx
+        image: aniketlondhe321/devops-app
         ports:
         - containerPort: 80
